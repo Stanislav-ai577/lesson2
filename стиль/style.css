@@ -1,0 +1,121 @@
+#wrapper{
+   width: 800px;
+   margin: 0 auto;
+}
+
+
+
+.title{
+   font-family: 'Raleway', sans-serif;
+   text-align: center;
+   margin-top: 100px;
+}
+
+hr{
+   margin: 0% auto;
+   background-color: brown;
+   height: 1px;
+   border:none;
+   width: 64px ;
+}
+
+.firstsubtitle{
+   font-family: 'Open Sans', sans-serif;
+   text-align: center;
+   color: #86878B;
+}
+
+.circle{
+   display: inline-block;
+   width: 70px;
+   height: 70px;
+   border: 1px solid #E72424;
+   border-radius: 100%;
+   margin-right: 20px;
+   margin-top: 13px;
+
+}
+
+img.lamp{
+   margin-left: 22px;
+   margin-top: 16px;
+}
+
+
+.ocean{
+display: inline-block;
+   width: 70px;
+   height: 70px;
+   border: 1px solid #E72424;
+   border-radius: 100%;
+   margin-left: 246px;
+
+}
+
+.keyboard{
+   margin-left: 16px;
+   margin-top: 21px;
+}
+
+.cycle{
+   display: inline-block;
+   width: 70px;
+   height: 70px;
+   border: 1px solid #E72424;
+   border-radius: 100%;
+   margin-left: 246px;
+
+}
+
+.lightning{
+   margin-left: 26px;
+   margin-top: 20px;
+}
+
+.firstsignature{
+   display: inline-block;
+   font-family: 'Raleway', sans-serif;
+   margin-top: 32px;
+   margin-left: -58px;
+}
+
+.secondsignature{
+   display: inline-block;
+   font-family: 'Raleway', sans-serif;
+   margin-top: 32px;
+   margin-left: 169px;
+}
+
+.thirdsignature{
+   display: inline-block;
+   font-family:'Raleway', sans-serif;
+   margin-top: 20px;
+   margin-left: 134px;
+}
+
+.secondsubtitle{
+   display: inline-block;
+   font-family:'Raleway', sans-serif;
+   margin-top: -76px;
+   margin-left: -113px;
+   width: 350px;
+   height: 60px;
+}
+
+.thirdsubtitle{
+   display: inline-block;
+   font-family:'Raleway', sans-serif;
+   margin-top: 11px;
+   margin-left: -21px;
+   width: 350px;
+   height: 60px;
+}
+
+.fourthsubtitle{
+   display: block;
+   font-family:'Raleway', sans-serif;
+   margin-top: -81px;
+   margin-left: 578px;
+   width: 350px;
+   height: 60px;
+}
